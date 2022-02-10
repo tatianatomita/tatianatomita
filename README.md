@@ -1,7 +1,7 @@
-## Olá! Eu sou a Tatiana Tomita 
+## Olá! Bem vindo ao meu perfil ! Eu sou a Tatiana Tomita 
 
 - 🔭 Hoje procuro oportunidades de adquirir experiencias profissionais no back-end.
-- 🌱 Estudando Java.
+- 🌱 Estudando Java, Design Patterns em Java, JUnit e e2e com o Selenium.
 - 📫 Contate me no e-mail: tatiana.tomita88@gmail.com
 - 😄 Pronouns: ela/dela
 
