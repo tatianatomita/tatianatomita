@@ -1,4 +1,4 @@
-## Olá! Bem vindo ao meu perfil ! Eu sou a Tatiana Tomita 
+## Olá! Bem vindo ao meu perfil !  
 
 - 🔭 Hoje procuro oportunidades de adquirir experiencias profissionais no back-end.
 - 🌱 Estudando Java, Design Patterns em Java, JUnit e e2e com o Selenium.
@@ -24,7 +24,7 @@
   <a href = "mailto:tatiana.tomita88@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tatiana-tomita-2aab46225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/tatianatomita/tatianatomita/blob/output/github-contribution-grid-snake.svg)
+  
  
 </div>
   
