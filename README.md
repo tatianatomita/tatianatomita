@@ -14,7 +14,7 @@
   <img align="center" alt="taty-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
   <img align="center" alt="taty-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="taty-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="taty-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactjs/reactjs-plain.svg">
+  <img align="center" alt="taty-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   
   <img align="right" alt="gif taty" height="150" style="border-radius:50px;" src="https://github.com/tatianatomita/foto_gif_perfil/blob/master/gif%20taty%20git%20tamanho%20reduzido%20%2020.gif">
  
