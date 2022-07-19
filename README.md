@@ -1,6 +1,6 @@
 ## Olá! Bem vindo ao meu perfil !  
 
-- 🔭 Hoje procuro oportunidades de adquirir experiencias profissionais no back-end.
+- 🔭 Hoje procuro oportunidades de adquirir experiencias profissionais no back-end, front-end.
 - 🌱 Estudando Java, Design Patterns em Java, JUnit e e2e com o Selenium.
 - 📫 Contate me no e-mail: tatiana.tomita88@gmail.com
 - 😄 Pronouns: ela/dela
